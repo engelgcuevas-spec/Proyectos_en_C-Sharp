@@ -1,7 +1,0 @@
-C:\Users\Engel\source\repos\Calculadora\Snake_2\bin\Debug\Snake_2.exe.config
-C:\Users\Engel\source\repos\Calculadora\Snake_2\bin\Debug\Snake_2.exe
-C:\Users\Engel\source\repos\Calculadora\Snake_2\bin\Debug\Snake_2.pdb
-C:\Users\Engel\source\repos\Calculadora\Snake_2\obj\Debug\Snake_2.csproj.AssemblyReference.cache
-C:\Users\Engel\source\repos\Calculadora\Snake_2\obj\Debug\Snake_2.csproj.CoreCompileInputs.cache
-C:\Users\Engel\source\repos\Calculadora\Snake_2\obj\Debug\Snake_2.exe
-C:\Users\Engel\source\repos\Calculadora\Snake_2\obj\Debug\Snake_2.pdb

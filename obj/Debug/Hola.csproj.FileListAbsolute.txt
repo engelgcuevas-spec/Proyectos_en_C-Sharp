@@ -1,7 +1,0 @@
-C:\Users\Engel\source\repos\Calculadora\Hola\bin\Debug\Hola.exe.config
-C:\Users\Engel\source\repos\Calculadora\Hola\bin\Debug\Hola.exe
-C:\Users\Engel\source\repos\Calculadora\Hola\bin\Debug\Hola.pdb
-C:\Users\Engel\source\repos\Calculadora\Hola\obj\Debug\Hola.csproj.AssemblyReference.cache
-C:\Users\Engel\source\repos\Calculadora\Hola\obj\Debug\Hola.csproj.CoreCompileInputs.cache
-C:\Users\Engel\source\repos\Calculadora\Hola\obj\Debug\Hola.exe
-C:\Users\Engel\source\repos\Calculadora\Hola\obj\Debug\Hola.pdb
